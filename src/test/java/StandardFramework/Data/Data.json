@@ -1,0 +1,15 @@
+[
+    {
+        "user" : "standard_user",
+        "pass" : "secret_sauce",
+        "fname" : "Rahul",
+        "lname" : "Obroi",
+        "code" : "999999",
+        "items" : [
+            "Sauce Labs Backpack",
+            "Sauce Labs Fleece Jacket",
+            "Test.allTheThings() T-Shirt (Red)",
+            "Sauce Labs Bike Light"
+        ]
+    }
+]
