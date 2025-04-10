@@ -32,6 +32,7 @@ Test execution reports will be generated automatically.
 The test can also be run using mvn from commad prompt by running the below code:
 run test
 Folder Structure
+```
 ├───.settings
 ├───reports
 ├───src
@@ -85,4 +86,6 @@ Folder Structure
     │   ├───Default suite
     │   └───Suite
     └───Suite
+```![Screenshot 2025-04-10 162502](https://github.com/user-attachments/assets/08d34a28-2f7b-4d53-a684-c5a297e12ee6)
+
 Screenshots
