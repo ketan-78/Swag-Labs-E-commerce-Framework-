@@ -107,7 +107,11 @@ run test
     └───Suite
 ```
 ## Screenshots
-
+-Extent Report Screenshot
 ![Extent Report Screenshot](https://github.com/user-attachments/assets/08d34a28-2f7b-4d53-a684-c5a297e12ee6)
+
+- Jenkins
 ![Jenkins](https://github.com/user-attachments/assets/1b2a3c3f-c38f-4c2f-87cd-0f95d1decb00)
+
+- Swag Labs E-Commerce
 ![Swag Labs E-Commerce](https://github.com/user-attachments/assets/a734f8b1-ac47-435c-9ad2-040de592fb91)
