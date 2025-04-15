@@ -11,6 +11,8 @@ The automation covers key functionalities like user login, adding items to the c
 -	Selenium WebDriver
 -	TestNG
 -	Maven
+-	Jenkins
+-	CI/CD
 
 
 
@@ -43,7 +45,7 @@ git clone https://github.com/your-username/your-repository-name.git
 -	Run the testng.xml file to execute the complete suite.
 -	Alternatively, right-click on any individual test class and select Run As > TestNG Test.
 -	Test execution reports will be generated automatically.
-- The test can also be run using mvn from commad prompt by running the below code: 
+- The test can also be run using mvn from command prompt by running the below code: 
 ```bash
 run test
 ```
@@ -108,3 +110,4 @@ run test
 ## Screenshots
 
 ![Extent Report Screenshot](https://github.com/user-attachments/assets/08d34a28-2f7b-4d53-a684-c5a297e12ee6)
+![Jenkins](https://github.com/user-attachments/assets/1b2a3c3f-c38f-4c2f-87cd-0f95d1decb00)
