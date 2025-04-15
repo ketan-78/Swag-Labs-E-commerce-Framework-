@@ -1,10 +1,9 @@
-![image](https://github.com/user-attachments/assets/a734f8b1-ac47-435c-9ad2-040de592fb91)
-
 
 # Swag Labs Automation Testing Suite
 
 This repository contains automation scripts for testing the Swag Labs e-commerce website.
 The automation covers key functionalities like user login, adding items to the cart, reviewing cart contents, entering shipping details, processing payments, and logging out.
+![image](https://github.com/user-attachments/assets/a734f8b1-ac47-435c-9ad2-040de592fb91)
 
 
 ## Tech Stack
