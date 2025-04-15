@@ -13,7 +13,7 @@ The automation covers key functionalities like user login, adding items to the c
 -	Maven
 -	Jenkins
 -	CI/CD
-
+-   Ngrok
 
 
 ## Features
@@ -45,7 +45,7 @@ git clone https://github.com/your-username/your-repository-name.git
 -	Run the testng.xml file to execute the complete suite.
 -	Alternatively, right-click on any individual test class and select Run As > TestNG Test.
 -	Test execution reports will be generated automatically.
-- The test can also be run using mvn from command prompt by running the below code: 
+-   The test can also be run using mvn from the command prompt by running the below code: 
 ```bash
 run test
 ```
