@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d8f5844b-549b-4366-854f-6c7a92f47af5)
 
 # Swag Labs Automation Testing Suite
 
