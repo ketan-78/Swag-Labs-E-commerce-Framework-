@@ -107,7 +107,7 @@ run test
     └───Suite
 ```
 ## Screenshots
--Extent Report Screenshot
+- Extent Report Screenshot
 ![Extent Report Screenshot](https://github.com/user-attachments/assets/08d34a28-2f7b-4d53-a684-c5a297e12ee6)
 
 - Jenkins
